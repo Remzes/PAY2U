@@ -1,0 +1,12 @@
+.offers-page__ticket-form {
+  &__inner {
+    max-width: 800px;
+    margin: 10px auto;
+    &__input-field {
+      label {
+        text-align: left;
+      }
+      margin-top: 20px;
+    }
+  }
+}
